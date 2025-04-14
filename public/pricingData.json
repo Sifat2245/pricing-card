@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Basic Plan",
+    "price": "$29.99/month",
+    "description": "Perfect for beginners who want to access the essentials of the gym and start their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "1 Free fitness assessment"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Standard Plan",
+    "price": "$79.99/3 months",
+    "description": "Designed for individuals looking for more variety with group fitness classes and a personal touch with personal training.",
+    "features": [
+      "All Basic Plan features",
+      "Group fitness classes",
+      "1 Personal training session/month",
+      "Free Wi-Fi"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Premium Plan",
+    "price": "$149.99/6 months",
+    "description": "A comprehensive plan for those serious about fitness, including unlimited group classes, additional personal training, and nutrition guidance.",
+    "features": [
+      "All Standard Plan features",
+      "Unlimited group classes",
+      "3 Personal training sessions/month",
+      "Diet & Nutrition plan"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Ultimate Plan",
+    "price": "$249.99/year",
+    "description": "The all-inclusive plan for fitness enthusiasts who want maximum access, priority support, and exclusive perks like guest passes.",
+    "features": [
+      "All Premium Plan features",
+      "24/7 gym access",
+      "Priority support",
+      "Guest passes (5/month)"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Student Plan",
+    "price": "$19.99/month",
+    "description": "Affordable for students, this plan offers all the essential gym services along with fitness classes, all at a discounted price.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Group fitness classes",
+      "Valid student ID required"
+    ]
+  }
+]
